@@ -1,0 +1,43 @@
+body{
+    font-family: 'Special Elite', cursive;
+}
+
+.main_div{
+    background:lightcoral;
+    color:red;
+    width: 100%;
+}
+
+.main_div img{
+    width: 100px;
+}
+
+.obj{
+    width: 50%;
+    box-shadow: 5px 5px 18px grey;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.mini_result {
+    border-radius: 20px;
+    background:lightgray;
+    width: 190px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.c{
+    color: indigo;
+}
+
+.s{
+    color:red;
+}
+
+.i{
+    width: 300px;
+    height: 300px;
+}
